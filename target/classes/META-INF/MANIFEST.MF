@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ParallelProject_SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lntinfotech
+Implementation-Vendor-Id: com.bvrit
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ParallelProject_SpringBoot
+Created-By: Maven Integration for Eclipse
+

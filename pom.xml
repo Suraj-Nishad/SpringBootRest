@@ -10,7 +10,7 @@
         <slf4j.version>1.7.26</slf4j.version>
         <log4j.version>1.7.26</log4j.version>
         <jetty.version>9.4.12.v20180830</jetty.version>
-        <hibernate.version>5.4.3.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <oracle_driver.version>11.2.0</oracle_driver.version>
         <postgres.version>42.2.2</postgres.version>
 </properties>

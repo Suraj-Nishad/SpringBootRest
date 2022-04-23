@@ -6,7 +6,7 @@
   
 <properties>
         <failOnMisssingWebXml>false</failOnMisssingWebXml>
-        <spring.version>5.1.6.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <slf4j.version>1.7.26</slf4j.version>
         <log4j.version>1.7.26</log4j.version>
         <jetty.version>9.4.12.v20180830</jetty.version>
